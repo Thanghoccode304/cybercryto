@@ -1,0 +1,11 @@
+body {
+  background-color: #151937;
+  color: #fff;
+}
+.container {
+}
+.text_gradient {
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(270.78deg, #ffa7a9 4.19%, #ff5ea3 96.11%);
+}
